@@ -49,7 +49,7 @@ public class Planeta {
     }
 
     // Constructor para crear un planeta con sus datos.
-    public Planeta(String nombrePlaneta, String sectorGalactico) {
+    public Planeta(String nombrePlaneta, String afiliacion) {
         this.nombrePlaneta = nombrePlaneta;
         this.afiliacion = afiliacion;
     }
