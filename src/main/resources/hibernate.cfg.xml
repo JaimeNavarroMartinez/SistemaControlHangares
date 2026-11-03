@@ -14,11 +14,11 @@
 
         <property name="connection.driver_class">org.postgresql.Driver</property>
 
-        <property name="connection.url">jdbc:postgresql://HOST:PUERTO/BASE_DATOS</property>
+        <property name="connection.url">jdbc:postgresql://bwawrqgjksewm9e8uh4e-postgresql.services.clever-cloud.com:50014/bwawrqgjksewm9e8uh4e</property>
 
-        <property name="connection.username">USUARIO</property>
+        <property name="connection.username">uj3fv17tcayxf5vxjuyg</property>
 
-        <property name="connection.password">PASSWORD</property>
+        <property name="connection.password">rOOzg2OwhtZR7xxYDPKEFBmq3AQW1e</property>
 
         <!-- 2. Dialecto SQL específico para optimizar las consultas a PostgreSQL -->
 

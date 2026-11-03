@@ -3,6 +3,3 @@
 
 # Configuración privada de NetBeans
 /nbproject/private/
-
-# Credenciales de la base de datos
-/src/main/resources/hibernate.cfg.xml
